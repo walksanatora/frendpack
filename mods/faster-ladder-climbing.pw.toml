@@ -1,0 +1,13 @@
+name = "Faster Ladder Climbing"
+filename = "FasterLadderClimbing-1.20.1-0.2.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ylYAPOKe/versions/r2Yvspic/FasterLadderClimbing-1.20.1-0.2.10.jar"
+hash-format = "sha1"
+hash = "cf27aa0cbcc60a26ce9000b2b1c3c34c8fe84022"
+
+[update]
+[update.modrinth]
+mod-id = "ylYAPOKe"
+version = "r2Yvspic"
