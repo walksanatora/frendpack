@@ -244,3 +244,13 @@ metafile = true
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "845eac117020455b3cf880fa5499cba5bfbd6a483a2aa8cfd61575435cdd7c1c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f45e4de6888b345c33e7339aa1a14d5a46c6f4597317f7666a7d7119a0206b86"
+metafile = true
