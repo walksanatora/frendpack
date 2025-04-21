@@ -1,0 +1,221 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "c06c0dbe9c7b955f483deb0f0e6ea6824546b5983a6e0cb48ab4356fd0e3613c"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "a18e377ea27f44fae53686b8875b858770e8a279da7eaf523fa498a09ffad8a5"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "7ec91c6a496a122e84c4f0e7737175bf869dda8e046a208ef6e13830ca731378"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics.pw.toml"
+hash = "9c63cd15639eb8bf581976828c7c0604ca58f210f1a895b87d36b0a618c143e0"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "bd9f67f0985aa97b0faabbee9fdfd2e36c93352b0067f26de880dc8c968b70ea"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "9ccd9ad154cd112e8a2a33f9b1f61ff72bdceca49cd7ccd93221adc91c9120d5"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ded75a2dd4ee0ea57454d080652099f759ff222a17c6f7daa86df944daf5ad04"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "cecf861a5103ad5d9509a3b3b74d395640ca8a5f453839b73ab9be5d3dd3ad2a"
+metafile = true
+
+[[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "7754a67e108cce0fa7d2eb6ed82684343f8d788b16e1d8027203cc4027bf8e23"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "aea8cb2405e8c09591ad4ebcb03f76936b016176577852b9a922278de45a5785"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
+metafile = true
+
+[[files]]
+file = "mods/embers.pw.toml"
+hash = "4ede8f56d7b6efe7d8cf90dddf5f9ea5f9d38bfc5f65569e1f8c5d64fc0238a5"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "a09fd1c71c6c3306b4cace77159cbbe7cf99277ccfdcc647ccd5e362cf0edac3"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "6a69d79b93e0634a65f9f00e30fa55b449a3e463847ab56ddc2847773774a8a8"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "67546abdcdd08e9977cdabb7011330edba00d8d7b2fe2e438807d26cff01c09b"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "c1d1a67fd1aa59ef8ff134b5801d0ffee92610ec6639562617dc283eaf3c2274"
+metafile = true
+
+[[files]]
+file = "mods/hostile-neural-networks.pw.toml"
+hash = "d8f52c6109108160c9ca80ae2d1fd03f3b27f4a3196c62ba805928b66482be5b"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "03f26601b1ac70b1ca30d9d05b06ee9d8e043ab12d2a096b7e1525a87f5318e0"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "f3cbaba849b5281ee5d7afdaee599fdffc9e5d297f97b00170dcb562c1fc62bc"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "794ed8c4cd7fd8372e8e5af82c291244449f3d77afcd732cadc0e96361ee6856"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1e1e2fa9039471b0fb31320d4627ebe221069cc50f6aa055e13ce363dc19b833"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "3318fc82012c5471aa0c0fbde8585f36e2557a97836108fcadb7fe0b8f7647af"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "50089e9e41f8e332aa6af6ed6490ac8f02caf314609e8ddd5c385e79cf7abe78"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "553faca3a935f4019e62ac8d78905b8f4aa7413ad39f400745455a7df6ed546a"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "925a5250aaf843a64a8499a5f4ee214e45e3efc6e465126c0ad5f1953b24ebb0"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "0b962519ab738eba3895badf9371bb30084178500c882e3e3b4c7feaa2e2c6fe"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "4e1e4b7b4b34618eca0551f142e00cb44673be267d0b4282b6ee0a0fa4d799a6"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "d9356a50cecd50ea65cd9ecff20bd97df2b379776ccc0b78683b1df387418a04"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
+metafile = true
+
+[[files]]
+file = "mods/revelationary.pw.toml"
+hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d03b81a12dd6fa5c46d7b51c22b4f1d51f5f5c48e57c9c8c53930b9a18d71f36"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "b5023fb8ff2fee37fee75ad44912888c176ef99c8b0039af41db43ecceeeac6e"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "0ae5133d5ff39f73f7c15e96e30fe0973caf544250c8c42a8d88a91eccbc5581"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "fdfd124cb5c85537d465fbfd41b28940ece184d4e081f951ca42fc425c9a63ee"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "719ceecb60e75b25656701c386fea8a098f8dc959197abcfac0e6fbe5f93a429"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true

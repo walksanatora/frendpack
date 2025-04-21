@@ -1,0 +1,13 @@
+name = "Frendpack"
+author = "Walksanator"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fe4a6e91fd4a6f7a4e367c3b655f048da8a9a917032870aec35f152ddaea471f"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
