@@ -166,6 +166,11 @@ hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "ee707f80f7f3bc8162719f23245ec51e8ecd732eaf75e11d1a6b42d6a83be2db"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "3318fc82012c5471aa0c0fbde8585f36e2557a97836108fcadb7fe0b8f7647af"
 metafile = true
@@ -173,6 +178,26 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "50089e9e41f8e332aa6af6ed6490ac8f02caf314609e8ddd5c385e79cf7abe78"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "83f17036614f1b2257ef221d47082a8816cd67358eec8a0c21e8a91415e8d17a"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-cardboard-tooltip.pw.toml"
+hash = "cbdd879a46109e5082281920b1454a242b2508a581225e3b39ecb0a56a5d2ce8"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "9e79fa70ab8733fff594b3eda8a24e87f4ee871caad62107259cf904f3d3c2c8"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "61f47bc589d70bc8fb2061b74b4fddee29f9dcf1daf7f3acfbe1b4c99dc5607d"
 metafile = true
 
 [[files]]
@@ -192,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
 metafile = true
 
 [[files]]
@@ -203,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "c04fddb219007c1415ce7f568c0f028fc4034dace292a1f96a1750fbd78d4ce3"
 metafile = true
 
 [[files]]
