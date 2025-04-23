@@ -11,6 +11,11 @@ hash = "c06c0dbe9c7b955f483deb0f0e6ea6824546b5983a6e0cb48ab4356fd0e3613c"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "6694b75c65ee2ba26b245c308305af529f5d4b5e3e3f7e9e37d48365707a7f32"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "a18e377ea27f44fae53686b8875b858770e8a279da7eaf523fa498a09ffad8a5"
 metafile = true
