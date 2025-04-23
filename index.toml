@@ -71,6 +71,11 @@ hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "cecf861a5103ad5d9509a3b3b74d395640ca8a5f453839b73ab9be5d3dd3ad2a"
 metafile = true
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "d9356a50cecd50ea65cd9ecff20bd97df2b379776ccc0b78683b1df387418a04"
+hash = "8d3d9fd64c708e36dd1680697399c8ef8dbda11f865f09e9976b145792afb008"
 metafile = true
 
 [[files]]
@@ -256,13 +261,18 @@ hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "d03b81a12dd6fa5c46d7b51c22b4f1d51f5f5c48e57c9c8c53930b9a18d71f36"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b5023fb8ff2fee37fee75ad44912888c176ef99c8b0039af41db43ecceeeac6e"
+hash = "47f3f31415d8745f920cf88b4970e295aaa60a33ed812ae0481a392d6abb42c2"
 metafile = true
 
 [[files]]
