@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6694b75c65ee2ba26b245c308305af529f5d4b5e3e3f7e9e37d48365707a7f32"
+hash = "9218f4af5213f4b0b33fc72d8f30728c7ff973e61867baf009114d0e28a7dc89"
 metafile = true
 
 [[files]]
@@ -83,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "cecf861a5103ad5d9509a3b3b74d395640ca8a5f453839b73ab9be5d3dd3ad2a"
-metafile = true
-
-[[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "7754a67e108cce0fa7d2eb6ed82684343f8d788b16e1d8027203cc4027bf8e23"
 metafile = true
 
 [[files]]
